@@ -70,10 +70,7 @@ python3 -c "import sqlite3; print('SQLite available')"
 
 将下面的 `YOUR_USERNAME` 替换为本仓库所属的GitHub用户名；如果仓库名不同，也修改仓库名：
 
-```bash
-mkdir -p ~/.agents/skills
-git clone https://github.com/YOUR_USERNAME/duo-tabletop.git ~/.agents/skills/duo-tabletop
-```
+git clone https://github.com/cong66177-debug/duo-tabletop.git ~/.agents/skills/duo-tabletop
 
 如果已有同名技能，更新原安装目录，不再创建第二份同名安装。
 
