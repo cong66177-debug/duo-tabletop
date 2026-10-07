@@ -1,0 +1,4 @@
+interface:
+  display_name: "双人桌游"
+  short_description: "在聊天中与 Null 完整游玩情书、爆炸猫和印加宝藏，程序裁判并保存状态"
+  default_prompt: "使用 $duo-tabletop，来玩一局桌游。"
